@@ -60,9 +60,10 @@ acumulador = 0
 for i in lista:
     acumulador += i
 print(acumulador)
-
+"""
 
 # 4. Pedir números al usuario hasta que escriba 0, y muestra la suma suma total (while).
+"""
 numero = int(input("Introduce un numero (0 para salir): "))
 acumulador = 0
 while numero != 0:
