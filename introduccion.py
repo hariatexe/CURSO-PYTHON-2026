@@ -1,15 +1,15 @@
-# # nombre = input("Introduce tu nombre: ")
-# # print(type(nombre))
+# nombre = input("Introduce tu nombre: ")
+# print(type(nombre))
 
 
-# # Operaciones Elementales
+# Operaciones Elementales
 
-# numero_1 = 40
-# numero_2 = 20
-# # numero_3 = 10
+numero_1 = 40
+numero_2 = 20
+# numero_3 = 10
 
-# # numero_1 += numero_2 # 40 + 20 = 60 (Lo guardo en la variable numero 1)
-# # numero_3 += numero_1 # 10 + 60 = 70 (Lo almaceno en la variable numero 3)
+# numero_1 += numero_2 # 40 + 20 = 60 (Lo guardo en la variable numero 1)
+# numero_3 += numero_1 # 10 + 60 = 70 (Lo almaceno en la variable numero 3)
 
 # numero_1 *= numero_2
 
