@@ -1,6 +1,9 @@
 # CURSO-PYTHON-2026 🐍
 Curso introductorio de Python con orientación a gráficas.
-![coding gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+<p align="center">
+  <img src="LINK_DEL_GIF" width="800">
+</p>
 ## PROGRAMA:
 
   ### INTRODUCCION
