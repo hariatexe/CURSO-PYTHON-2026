@@ -1,6 +1,6 @@
-![FIUBA](https://img.shields.io/badge/FIUBA-Engineering-red) # CURSO-PYTHON-2026
+# CURSO-PYTHON-2026 🐍
 Curso introductorio de Python con orientación a gráficas.
-
+![coding gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 ## PROGRAMA:
 
   ### INTRODUCCION
