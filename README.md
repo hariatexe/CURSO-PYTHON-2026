@@ -1,9 +1,8 @@
 # CURSO-PYTHON-2026 🐍
 Curso introductorio de Python con orientación a gráficas.
 
-<p align="center">
-  <img src="LINK_DEL_GIF" width="800">
-</p>
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Status](https://img.shields.io/badge/status-learning-orange)
 ## PROGRAMA:
 
   ### INTRODUCCION
