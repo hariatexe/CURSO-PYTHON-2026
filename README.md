@@ -17,7 +17,8 @@ Curso introductorio de Python con orientación a graficas.
   
   1. CONCEPTO DE MODULARIZACION
   2. DECLARACION DE FUNCIONES
-  3. EJERCICIOS
+  3. MÉTODOS
+  4. EJERCICIOS
      
   ### ESTRUCTURAS DE DATOS
   
