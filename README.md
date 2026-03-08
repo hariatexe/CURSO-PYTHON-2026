@@ -1,5 +1,5 @@
 # CURSO-PYTHON-2026
-Curso introductorio de Python con orientación a graficas.
+Curso introductorio de Python con orientación a gráficas.
 
 ## PROGRAMA:
 
