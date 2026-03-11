@@ -17,8 +17,8 @@ Curso introductorio de Python con orientación a gráficas.
 
   ### FUNCIONES
   
-  1. CONCEPTO DE MODULARIZACION
-  2. DECLARACION DE FUNCIONES
+  1. DECLARACION DE FUNCIONES
+  2. CONCEPTO DE MODULARIZACION
   3. MÉTODOS
   4. EJERCICIOS
      
